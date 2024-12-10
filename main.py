@@ -1,3 +1,6 @@
+#main.py
+#The main script that will be run to train the model and make predictions.
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

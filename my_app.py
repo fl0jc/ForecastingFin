@@ -1,3 +1,6 @@
+#my_app.py
+#The Dash app that will display the predictions and actuals.
+
 from flask import Flask
 from dash import Dash, dcc, html
 import plotly.graph_objs as go
